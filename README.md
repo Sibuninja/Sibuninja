@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivansh Dhyani</h1>
-<h3 align="center">A passionate AI & ML Engineer from Rishikesh, India 🇮🇳</h3>
+<h3 align="center">A passionate AI & ML Engineer from Gurugram, India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="AI Developer GIF">
