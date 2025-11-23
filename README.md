@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Advanced NLP, Large Language Models, and Full Stack Development**  
 - 💬 Ask me about **Python, Deep Learning, AI-powered projects, Full Stack Development**  
 - 📫 Reach me: **shivansh.dhyani.12345@gmail.com**  
-- 📄 [My Resume](https://drive.google.com/file/d/1eWxce5N_ZglIJnd6XsGBjKH52QUJ7Vri/view?usp=drive_link)  
+- 📄 [My Resume](https://drive.google.com/file/d/1c7VH8pJjQ8tJyTCDX99DYywjoKeiG6Wb/view?usp=sharing)  
 - ⚡ Fun fact: I love solving real-world problems with AI! 🚀
 
 ---
